@@ -1,0 +1,34 @@
+# Python cache and artifacts
+__pycache__/
+*.py[oc]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Virtual environments
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MCP Toolbox binary
+toolbox.exe
+
+# LangGraph App (generated)
+app/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temp files
+*.log
+*.tmp
+
+# uv cache (optional)
+.uv/
+
+# Environment files
+.env
+.env.*
