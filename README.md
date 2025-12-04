@@ -87,7 +87,7 @@ Open the notebooks inside `notebook/`:
 	- Simple LangGraph chain generating TOTO numbers.
 
 2. **langgraph_react_agent.ipynb**
-	 Full ReAct agent with Tavily + SQL tools.
+	- Full ReAct agent with Tavily + SQL tools.
 
 3. **langgraph_mas.ipynb**
 	- Supervisor-led Multi-Agent System with three specialist agents.
